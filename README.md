@@ -10,3 +10,6 @@ Esse tema foi escolhido porque a internet faz parte do nosso dia a dia e influen
 - Identificar tecnologias importantes no seu crescimento  
 - Analisar o impacto da internet na sociedade  
 - Refletir sobre sua influência na vida moderna  
+
+
+Este caderno reúne estudos e análises sobre a evolução da internet, servindo como material de revisão e aprendizado contínuo.
