@@ -23,6 +23,7 @@ integração cada vez maior entre o mundo digital e o físico.
 2010–atualidade → Internet móvel, smartphones e inteligência artificial
 
 
+
 3. Glossário de termos principais
 
 ARPANET: Primeira rede que deu origem à internet moderna.
@@ -42,6 +43,7 @@ IoT (Internet das Coisas): Conexão de objetos físicos à internet.
 IA (Inteligência Artificial): Sistemas capazes de simular inteligência humana.
 
 
+
 4. Prompts reutilizáveis (engenharia de estudo)
 
 Esses são prompts que você pode usar para revisar o conteúdo no futuro:
@@ -52,6 +54,7 @@ Esses são prompts que você pode usar para revisar o conteúdo no futuro:
 “Quais foram os principais impactos da internet na sociedade?”
 “Quais tecnologias podem ser o futuro da internet?”
 “Explique Web 2.0, Web3 e IoT de forma comparativa”
+
 
 
 5. Ideia central do tema
